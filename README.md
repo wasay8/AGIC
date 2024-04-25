@@ -1,5 +1,3 @@
-Certainly! Here's a README.md for your "Automated Garbage Image Classifier" project based on the provided information:
-
 ```markdown
 # Automated Garbage Image Classifier (AGIC)
 
