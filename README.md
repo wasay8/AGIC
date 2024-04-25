@@ -1,11 +1,10 @@
-```markdown
-#Automated Garbage Image Classifier (AGIC)
+# Automated Garbage Image Classifier (AGIC)
 
-##Overview
+## Overview
 
-AGIC is a web-based application developed to improve waste management by classifying waste images into 6 broad categories: Plastic, Metal, Paper, Cardboard, Glass, and Trash. The classifier also determines the disposability and sustainability status of each item as Biodegradable or Non-Biodegradable. 
+AGIC is a web-based application developed to improve waste management by classifying waste images into 6 broad categories: Plastic, Metal, Paper, Cardboard, Glass, and Trash. The classifier also determines the disposability and sustainability status of each item as Biodegradable or Non-Biodegradable.
 
-##Key Features
+## Key Features
 
 - **High Accuracy Classification**
   - Achieved 90.89% and 93.26% accuracy using ResNet-34 and ResNet-50 architectures respectively.
@@ -31,7 +30,7 @@ AGIC is a web-based application developed to improve waste management by classif
 
 - **Convolutional Neural Networks (CNN)**
   - Utilized ResNet-34 and ResNet-50 architectures for hyperparameter tuning.
-  
+
 ## Libraries and Frameworks
 
 - **Fastai**: Built on top of PyTorch, aiding in building complex model structures using Deep Learning algorithms with transfer learning.
